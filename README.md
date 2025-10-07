@@ -28,6 +28,7 @@ _an anagram of my irl name_
 * Windows
 * WebServers (apache, nginx)
 * Virtualization (Proxmox, VirtualBox)
+* Cloud (Azure)
 * basic networking
 * CAD/CAM
 * CNC-machining
