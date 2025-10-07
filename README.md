@@ -100,8 +100,8 @@ _an anagram of my irl name_
 <details>
 <summary>ToDo</summary>
 
-- [ ] update this readme
-    - [ ] shorten the about me section (nobody loves wall of text :D) OR modify and move into skills section
+- [ ] update and imporve this readme as studies progress
+    - [x] shorten the about me section (nobody loves wall of text :D) OR modify and move into skills section     
     - [ ] add more current skills
     - [ ] add more school info
     - [ ] make more repositories public
