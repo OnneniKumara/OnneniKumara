@@ -1,13 +1,81 @@
-### profile of
+### profile of [@OnneniKumara](https://github.com/OnneniKumara)
+_an anagram of my irl name_
 
-# Niko-Mauranen
+---
+### About me
+# Niko Mauranen
+- career changer from wood- and plastics industry who used to work as (in chronological order) :
+    - carpenter, furniture maker, installations and shopfitter
+    - machine operator and maintenance technician
+        - 75 % of programs made 'on the fly'
+            - (operating the machine and programming the next part at the same time)
+        - worked with 3, 4 and 5 axis cnc-machines
+        - mainly with wood based and plastic materials
+    - last years in former job as head cnc-programmer
+        - had small team of cnc-operators to lead
+            - main responsibilities
+                - CAD designs done and modified in the workshop
+                - programming and optimizing cnc-machines
+                - maintenance and repairs of the machines
+                - quality control of the products
+                - training new employees
+                - debugging operator's problems
+                - ordering tools and making sure tools are in good condition
+        - worked with different cad/cam-software
+            - cams: SCM Xilog+, SCM Maestro Masterwood Masterwork and Vectric Aspire
+            - SolidWorks for 3d-cads
+            - Libre cad for 2d-cads
+        - Prototyping and small series production
+            - 3D routings on 3 axis cnc-machines
+                - molds and patterns for vacuum forming and pressure casting
+                - custom fixtures and jigs
+            - 5-axis finishing programs for moulded parts
+                - 3 and 4 axis interpolation
+            - nestings for furniture parts
+        - Excel sheets for making a csv to drive a multipart parametrized nesting programs
+        - Wrote two fully working postprocessors for the cnc-machines for Vectric Aspire
+            - For the ability to machine 3 axis 3D parts on company cnc's
+            - both based on existing postprocessors of the same brand machines
+            - modified to suit our machines
 
+---
 ### School
-
 ## LAB University of Applied Sciences.
+#### degree programme
+### Bachelor of Engineering, Information and Computer Technology
+- started studies in autumn 2023
+---
+### Skills and tools
+- skills and tools I have experience with or am currently learning
 
-### degree programme
+* C#
+* .NET
+* MSSQL
+* mariaDB/mySQL
+* Angular
+* HTML
+* CSS
+* JavaScript
+* Python/micropython
+* Git
+* GitHub (+Project +Actions)
+* Linux
+* Windows
+* WebServers (apache, nginx)
+* Virtualization (Proxmox, VirtualBox)
+* basic networking
+* CAD/CAM
+* CNC-machining
+* woodworking
+* plastics processing
 
-## Bachelor of Engineering, Information and Computer Technology
+---
 
-[](https://www.blender.org/)[](https://getbootstrap.com)[![csharp](file:///C:/Users/Kumara/.config/joplin-desktop/resources/12e00f8dde8d4ecda2ca760e7841c19b.svg)](https://www.w3schools.com/cs/)[![css3](file:///C:/Users/Kumara/.config/joplin-desktop/resources/f1790382b1ab472a80f0c323a02556b2.svg)](https://www.w3schools.com/css/)[![express](file:///C:/Users/Kumara/.config/joplin-desktop/resources/d001bfb5d2634194980777e2c89ef2a5.svg)](https://expressjs.com)[![git](file:///C:/Users/Kumara/.config/joplin-desktop/resources/6499fea717bf4b7f82ac631eaf49ade9.comff5301ef7472dbdf5)](https://git-scm.com/)[![html5](file:///C:/Users/Kumara/.config/joplin-desktop/resources/5e569c01e8834641a439d499c1a090d5.svg)](https://www.w3.org/html/)[![javascript](file:///C:/Users/Kumara/.config/joplin-desktop/resources/6fdc446c6fb54f9195847a10bd60ac29.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)[](https://www.mongodb.com/)[![mysql](file:///C:/Users/Kumara/.config/joplin-desktop/resources/8fecc475cca64a10af6d2d6e308568b5.svg)](https://www.mysql.com/)[![nginx](file:///C:/Users/Kumara/.config/joplin-desktop/resources/f4190e786b3b4c649e8180eadcc18e95.svg)](https://www.nginx.com)[![nodejs](file:///C:/Users/Kumara/.config/joplin-desktop/resources/790c4e749cd848178d1215834a3052aa.svg)](https://nodejs.org)[![postman](file:///C:/Users/Kumara/.config/joplin-desktop/resources/5d640404b1364329b650d5369f440213.com5c2595c2fcc9ef7ff)](https://postman.com)[![python](file:///C:/Users/Kumara/.config/joplin-desktop/resources/425f0ef57ec24d0ea1217b68bd621059.svg)](https://www.python.org)[![typescript](file:///C:/Users/Kumara/.config/joplin-desktop/resources/3de9423fba2b4956a2471c8cef554091.svg)](https://www.typescriptlang.org/)
+### ToDo
+- [ ] update this readme
+    - [ ] shorten the about me section (nobody loves wall of text :D) OR modify and move into skills section
+    - [ ] add more current skills
+    - [ ] add more school info
+    - [ ] make more repositories public
+    - [ ] add outside resources
+   
