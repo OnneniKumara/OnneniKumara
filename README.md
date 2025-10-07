@@ -13,23 +13,28 @@ _an anagram of my irl name_
 ### Skills and tools
 - skills and tools I have experience with or am currently learning
 
-* C#
-* .NET
-* MSSQL
-* mariaDB/mySQL
-* Angular
-* HTML
-* CSS
-* JavaScript
-* Python/micropython
-* Git
-* GitHub (+Project +Actions)
-* Linux
-* Windows
+* Languages (C#, Python/micropython, JavaScript/TypeScript, SQL, Bash, PowerShell, HTML, CSS, SCSS)
+* Databases (mariaDB/mySQL, MSSQL, SQLite)
+* Frameworks and libraries
+    * .NET (ASP.NET, Entity Framework, Pomelo.EntityFrameworkCore.MySql, ASP.NET Identity)
+    * Angular
+    * Express.js
+    * Node.js
+* VCS (Git)
+* VCS-hosting (GitHub +Projects +Actions)
+* Operating systems (Linux, Windows)
+    * Linux distros (Ubuntu, RHEL/Fedora, Debian, damn small linux)
+    * Windows (10, 11, Server 2016+)
+* IDEs and editors 
+    * Visual Studio, JetBrains Rider/PyCharm/WebStorm
+    * DBeaver, MS SQL Server Management Studio
+    * Oracle mySQL Workbench
 * WebServers (apache, nginx)
-* Virtualization (Proxmox, VirtualBox)
+* Virtualization (Proxmox, VirtualBox, Xen)
 * Cloud (Azure)
-* basic networking
+* basic networking (routers, switches, firewalls)
+* basic hardware (building and repairing pcs, populating hardware)
+* basic linux & windows server administration
 * CAD/CAM
 * CNC-machining
 * woodworking
@@ -38,8 +43,15 @@ _an anagram of my irl name_
 ---
 
 ### About me
-- career changer from wood- and plastics industry who used to work as (in chronological order) :
-    - carpenter, furniture maker, installations and shopfitter
+- over 40 years old atm (don't shoot me!!)
+- married with kids 
+- lot's of non-ict-related hobbies
+#### remember to have a life outside of work and studies!
+
+---
+
+#### career changer from wood- and plastics industry who used to work as (in chronological order):
+- carpenter, furniture maker, installations and shopfitter
     - machine operator and maintenance technician
         - 75 % of programs made 'on the fly'
             - (operating the machine and programming the next part at the same time)
