@@ -1,9 +1,10 @@
 ### profile of [@OnneniKumara](https://github.com/OnneniKumara)
 _an anagram of my irl name_
 
-# Niko Mauranen
+**Note: currently only a few public repositories, more to come in the future when they are ready enought to be public.**
 
 ---
+# Niko Mauranen
 ### School
 ## LAB University of Applied Sciences.
 #### degree programme
