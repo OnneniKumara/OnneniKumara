@@ -11,8 +11,8 @@ _an anagram of my irl name_
 ### Bachelor of Engineering, Information and Computer Technology
 - started studies in autumn 2023
 ---
-### Skills and tools
-- skills and tools I have experience with or am currently learning
+<details>
+<summary>Skills and tools I have experience with or am currently learning</summary>
 
 * Languages (C#, Python/micropython, JavaScript/TypeScript, SQL, Bash, PowerShell, HTML, CSS, SCSS)
 * Databases (mariaDB/mySQL, MSSQL, SQLite)
@@ -43,13 +43,23 @@ _an anagram of my irl name_
 
 ---
 
-### About me
-- over 40 years old atm (don't shoot me!!)
-- married with kids 
-- lot's of non-ict-related hobbies
-#### remember to have a life outside of work and studies!
+</details>
+
+<details>
+<summary>About Me</summary>
+
+* over 40 years old atm (don't shoot me!!)
+* married with kids 
+* lots of non-ict-related hobbies
+
+**!remember to have a life outside of work and studies!**
 
 ---
+
+</details>  
+
+<details>
+<summary>Former jobs and experience</summary>
 
 #### career changer from wood- and plastics industry who used to work as (in chronological order):
 - carpenter, furniture maker, installations and shopfitter
@@ -84,12 +94,17 @@ _an anagram of my irl name_
             - For the ability to machine 3 axis 3D parts on company cnc's
             - both based on existing postprocessors of the same brand machines
             - modified to suit our machines
+</details>
+
 ---
-### ToDo
+<details>
+<summary>ToDo</summary>
+
 - [ ] update this readme
     - [ ] shorten the about me section (nobody loves wall of text :D) OR modify and move into skills section
     - [ ] add more current skills
     - [ ] add more school info
     - [ ] make more repositories public
     - [ ] add outside resources
+</details>
    
